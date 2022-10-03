@@ -1,0 +1,64 @@
+
+
+.navbar-brand img
+{
+    background-color: rgb(80,78,78);
+    max-width: 100px;
+}
+
+#boton1
+{
+    color: #25a342;
+}
+
+#carousel1 img
+{
+    background-size: cover;
+    background-position: center center;
+    opacity: .4;
+}
+
+.Oradores
+{
+    text-align: center;
+}
+
+.Conviertete
+{
+    text-align: center;   
+}
+
+#Buenosaires
+{
+    color:white
+
+}
+
+#info
+{
+    margin-left: 400px;
+}
+
+.texto
+{
+ text-align: center;
+}
+
+#formulario
+{
+    margin-top: 10px;
+}
+
+#dato input
+{
+    border:none;
+    text-align: left;
+}
+
+#navbarNav li a
+{
+    color: rgba(255, 255, 255, 0.936);
+    display: inline-block;
+    margin: 3px 15px 3px 15px;
+}
+
