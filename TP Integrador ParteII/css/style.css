@@ -1,0 +1,48 @@
+
+.navbar-brand img
+{
+    background-color: rgb(80,78,78);
+    max-width: 100px;
+}
+
+#boton1
+{
+    color: #25a342;
+}
+
+#Tarjetas
+{
+    margin-top: 10px;
+
+}
+
+.card-body
+{
+    text-align: center;
+
+}
+
+.titulo
+{
+    text-align: center;
+}
+
+#botones
+{
+    text-align: center;
+
+}
+
+.sinborde
+{
+    border:0;
+    outline: none;
+    background-color:rgba(238, 238, 238, 0);
+}
+
+#navbarNav li a
+{
+    color: rgba(255, 255, 255, 0.936);
+    display: inline-block;
+    margin: 3px 15px 3px 15px;
+}
